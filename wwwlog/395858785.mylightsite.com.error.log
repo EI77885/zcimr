@@ -1,0 +1,1 @@
+2018/04/17 17:04:47 [crit] 25869#0: *3769 SSL_do_handshake() failed (SSL: error:14094085:SSL routines:SSL3_READ_BYTES:ccs received early) while SSL handshaking, client: 139.162.172.241, server: 0.0.0.0:443

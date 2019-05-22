@@ -1,0 +1,38 @@
+
+/*联系方式*/
+#map{
+	width:700px;
+	height:600px;
+	border:#ddd solid 2px;
+	font-size:12px;
+	margin:0 auto;
+	margin-bottom:50px;
+}
+.contact_info li{
+	list-style: none;
+	margin-bottom: 10px;
+	line-height:30px;
+}
+
+.contact_info li span{
+	margin-right:10px;
+}
+
+.msgbtn{
+	display:block;
+	width:150px;
+	height:50px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	border-radius: 10px;
+	line-height: 50px;
+	background-color: #f76f17;
+	color:#fff;
+	text-align: center;
+	margin:0 auto;
+}
+.msgbtn:hover,.msgbtn:visited{
+	text-decoration: none;
+	background-color: #f76f32;
+	color:#673116;
+}

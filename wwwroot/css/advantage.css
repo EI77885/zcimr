@@ -1,0 +1,7 @@
+.tab-content .tab-pane{
+	padding:15px;
+}
+h4.marker{
+	background: url(../images/marker.gif) no-repeat left center;
+	padding-left: 15px;
+}
